@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb80326a-ea04-4bad-b5b0-6ff309a162e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Traveling_Salesman_NN/Projekt2PWlostek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Traveling_Salesman_NN/Projekt2PWlostek.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2eCWXWW52C37erZyW62XScnkVOy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/peter/Desktop/SIIUM/AI_ML/Podstawy Sztucznej Inteligenccji"
+    "last_opened_file_path": "C:/Users/peter/Desktop/SIIUM/AI_ML/Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb"
   }
 }]]></component>
   <component name="SharedIndexes">
