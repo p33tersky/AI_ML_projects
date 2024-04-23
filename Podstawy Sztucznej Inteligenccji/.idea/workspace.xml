@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb80326a-ea04-4bad-b5b0-6ff309a162e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traveling_Salesman_DFS_BFS/Projekt1PWlostek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Traveling_Salesman_DFS_BFS/Projekt1PWlostek.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traveling_Salesman_NN/Projekt2PWlostek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Traveling_Salesman_NN/Projekt2PWlostek.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Klasyfikacja liniowa/KlasyfikacjaLiniowa.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/LinearRegression.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/flappy_bird_case1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/flappy_bird_case2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/Regresja liniowa/flappy_bird_case3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uczenie Maszynowe/zipy/1/1_{254493}_Piotr_Wlostek.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/peter/Desktop/SIIUM/AI_ML/Uczenie Maszynowe/Regresja liniowa/RegresjaLiniowa.ipynb"
+    "last_opened_file_path": "C:/Users/peter/Desktop/SIIUM/Algorytmika i matematyka uczenia maszynowego/lab06"
   }
 }]]></component>
   <component name="SharedIndexes">
